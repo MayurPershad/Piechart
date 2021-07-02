@@ -1,0 +1,5 @@
+import matplotlib.pyplot as p
+s=[4000,3000,1000,1000,1000]
+i=["Mayur","Rajat","Sandy","Kiran","Akash"]
+p.pie(s,labels=i)
+p.show()
